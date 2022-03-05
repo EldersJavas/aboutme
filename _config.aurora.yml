@@ -9,12 +9,12 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
-  nick: Auroral UI
-  description:
+  subtitle: EldersJavas
+  author: EldersJavas
+  nick: EldersJavas
+  description: EldersJavas
   link: '/'
-  language: en
+  language: cn
   multi_language: true
   logo: https://img-blog.csdnimg.cn/20210313122054101.png
   avatar: https://img-blog.csdnimg.cn/20210313122054101.png
@@ -31,13 +31,13 @@ site:
 #! ---------------------------------------------------------------
 authors:
   ##! example
-  # TriDiamond:
-  #   name: TriDiamond
+  EldersJavas:
+     name: EldersJavas
   #   avatar: https://up.enterdesk.com/edpic_source/44/ff/3d/44ff3d6bd2819d524facfcc33205d4cd.jpg
-  #   link: https://github.com/TriDiamond
+     link: https://github.com/EldersJavas
   #   description: 'Think like an artist, code like an artisan.'
-  #   socials:
-  #     github: https://tridiamond.tech
+     socials:
+       github: https://github.com/EldersJavas
 
 #! ---------------------------------------------------------------
 #! Menu Configs
@@ -106,10 +106,10 @@ gitalk:
   clientID: ''
   clientSecret: ''
   repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
+  owner: 'EldersJavas'
+  admin: ['EldersJavas']
   id: uid
-  language: en
+  language: cn
   distractionFreeMode: true
   recentComment: true
   proxy: ''
@@ -127,7 +127,7 @@ valine:
   avatarForce: false
   meta: ['nick', 'mail']
   requiredFields: []
-  admin: 'TriDiamond'
+  admin: 'EldersJavas'
   recentComment: true
 
 # Enable Busuanzi statistic plugin
