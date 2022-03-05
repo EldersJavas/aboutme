@@ -79,9 +79,9 @@ socials:
   #   link: https://live.bilibili.com/22619211
 
   ##! --- Using FontAwesome
-  # book:
-  #   icon: far fa-address-book
-  #   link: https://live.bilibili.com/22619211
+   bilibili:
+     icon: far fa-bilibili
+     link: https://space.bilibili.com/65342934
 
 #! ---------------------------------------------------------------
 #! Site Meta Configs
