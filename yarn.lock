@@ -736,6 +736,13 @@
   dependencies:
     "function-bind" "^1.1.1"
 
+"hexo-admonition@^1.1.2":
+  "integrity" "sha512-0TtXPe9aZBqqHPXJ77xyUck4qr3RsYkiq5tVrdgJyEYxREFfx2XcRgQh0fro5Vl1F8nmG2FraxeW2QLNUO8eaA=="
+  "resolved" "https://registry.npmmirror.com/hexo-admonition/-/hexo-admonition-1.1.2.tgz"
+  "version" "1.1.2"
+  dependencies:
+    "markdown-it" "^9.1.0"
+
 "hexo-cli@^4.0.0":
   "integrity" "sha512-NJQYKnD41KUlNZzEyi8wDzPeGhrjwLLTa05dtkwq+lJch+j9idZTh4dgn3w/82o6Q/zygn+ibO1XvihMfFdSfw=="
   "resolved" "https://registry.npmmirror.com/hexo-cli/-/hexo-cli-4.2.0.tgz"
@@ -1054,6 +1061,13 @@
     "jsonparse" "^1.2.0"
     "through" ">=2.2.7 <3"
 
+"linkify-it@^2.0.0":
+  "integrity" "sha512-GnAl/knGn+i1U/wjBz3akz2stz+HrHLsxMwHQGofCDfPvlf+gDKN58UtfmUquTY4/MXeE2x7k19KQmeoZi94Iw=="
+  "resolved" "https://registry.npmmirror.com/linkify-it/-/linkify-it-2.2.0.tgz"
+  "version" "2.2.0"
+  dependencies:
+    "uc.micro" "^1.0.1"
+
 "lodash.assignin@^4.0.9":
   "integrity" "sha512-yX/rx6d/UTVh7sSVWVSIMjfnz95evAgDFdb1ZozC35I9mSFCkmzptOzevxjgbQUsc78NR44LVHWjsoMQXy9FDg=="
   "resolved" "https://registry.npmmirror.com/lodash.assignin/-/lodash.assignin-4.2.0.tgz"
@@ -1128,10 +1142,26 @@
   dependencies:
     "sourcemap-codec" "^1.4.8"
 
+"markdown-it@^9.1.0":
+  "integrity" "sha512-xHKG4C8iPriyfu/jc2hsCC045fKrMQ0VexX2F1FGYiRxDxqMB2aAhF8WauJ3fltn2kb90moGBkiiEdooGIg55w=="
+  "resolved" "https://registry.npmmirror.com/markdown-it/-/markdown-it-9.1.0.tgz"
+  "version" "9.1.0"
+  dependencies:
+    "argparse" "^1.0.7"
+    "entities" "~1.1.1"
+    "linkify-it" "^2.0.0"
+    "mdurl" "^1.0.1"
+    "uc.micro" "^1.0.5"
+
 "marked@^1.0.0":
   "integrity" "sha512-H8lIX2SvyitGX+TRdtS06m1jHMijKN/XjfH6Ooii9fvxMlh8QdqBfBDkGUpMWH2kQNrtixjzYUa3SH8ROTgRRw=="
   "resolved" "https://registry.npmmirror.com/marked/-/marked-1.2.9.tgz"
   "version" "1.2.9"
+
+"mdurl@^1.0.1":
+  "integrity" "sha512-/sKlQJCBYVY9Ers9hqzKou4H6V5UWc/M59TH2dvkt+84itfnq7uFOMLpOiOS4ujvHP4etln18fmIxA5R5fll0g=="
+  "resolved" "https://registry.npmmirror.com/mdurl/-/mdurl-1.0.1.tgz"
+  "version" "1.0.1"
 
 "micromatch@^4.0.2":
   "integrity" "sha512-y7FpHSbMUMoyPbYUSzO6PaZ6FyRnQOpHuKwbo1G+Knck95XVU4QAiKdGEnj5wwoS7PlOgthX/09u5iFJ+aYf5Q=="
@@ -1671,6 +1701,11 @@
   "integrity" "sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A=="
   "resolved" "https://registry.npmmirror.com/tslib/-/tslib-2.1.0.tgz"
   "version" "2.1.0"
+
+"uc.micro@^1.0.1", "uc.micro@^1.0.5":
+  "integrity" "sha512-8Y75pvTYkLJW2hWQHXxoqRgV7qb9B+9vFEtidML+7koHUFapnVJAZ6cKs+Qjz5Aw3aZWHMC6u0wJE3At+nSGwA=="
+  "resolved" "https://registry.npmmirror.com/uc.micro/-/uc.micro-1.0.6.tgz"
+  "version" "1.0.6"
 
 "unpipe@~1.0.0":
   "integrity" "sha1-sr9O6FFKrmFltIF4KdIbLvSZBOw= sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ=="
