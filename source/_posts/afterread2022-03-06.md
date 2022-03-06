@@ -1,5 +1,5 @@
 ---
-title: [Journal entry]春读咏柳 柳意正浓
+title: Journal entry-春读咏柳 柳意正浓
 date: 2022-03-06 13:22:43
 tags:
 ---
