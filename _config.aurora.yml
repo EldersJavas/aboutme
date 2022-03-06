@@ -80,7 +80,7 @@ socials:
 
   ##! --- Using FontAwesome
    bilibili:
-     icon: far fa-bilibili
+     icon: iconfont bilibili
      link: https://space.bilibili.com/65342934
 
 #! ---------------------------------------------------------------
@@ -103,13 +103,13 @@ site_meta:
 gitalk:
   enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
-  repo: 'dev-blog-comments'
+  clientID: '9222bdb780b0312d1585'
+  clientSecret: '90a3bc536cf9a65ac510686a48103466f477d7c6'
+  repo: 'aboutme'
   owner: 'EldersJavas'
   admin: ['EldersJavas']
   id: uid
-  language: cn
+  language: en
   distractionFreeMode: true
   recentComment: true
   proxy: ''
