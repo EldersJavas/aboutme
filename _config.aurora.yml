@@ -12,7 +12,7 @@ site:
   subtitle: EldersJavas
   author: EldersJavas
   nick: EldersJavas
-  description: EldersJavas
+  description: This is EldersJavas
   link: '/'
   language: cn
   multi_language: true
@@ -47,6 +47,9 @@ menu:
   About: true
   Tags: true
   Archives: true
+  Github:
+    name: 'Github'
+    path: 'https://github.com/EldersJavas'
 
 #! ---------------------------------------------------------------
 #! Theme Config
