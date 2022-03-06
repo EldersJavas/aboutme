@@ -1,7 +1,5 @@
 ---
-title:
-  '[object Object]': null
+title: About Me
 date:
-  '[object Object]': null
 ---
 

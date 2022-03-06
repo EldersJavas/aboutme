@@ -32,8 +32,8 @@ tags:
   - [x] [ebiten doc](https://github.com/ebitenpot/ebiten.org) - A very simple 2D game library for Go
   - [ ] [Sakura Editor](https://github.com/sakura-editor/sakura) - Japanese text editor for MS Windows
   - [ ] [pnpm](https://github.com/pnpm) - Fast, disk space efficient package manager 
-  - [more...](./Translate.md)
-  
+  - [more...](./Translate)
+
 <!--
 **EldersJavas/EldersJavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
