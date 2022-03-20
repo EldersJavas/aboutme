@@ -1,7 +1,7 @@
 ---
 title: Hey! this is EldersJavas
 date: 2022-03-06 09:52:09
-tags:
+tags: about
 ---
 
 ## Hey! This is EldersJavas!✨

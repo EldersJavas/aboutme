@@ -1,7 +1,7 @@
 ---
 title: my wakatime
 date: 2022-03-07 21:55:27
-tags:
+tags: about
 ---
 
 <figure><embed src="https://wakatime.com/share/@Maicarons/222260af-49ad-402f-b99f-1fb9e9c01599.svg"></embed></figure>

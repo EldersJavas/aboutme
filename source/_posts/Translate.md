@@ -1,7 +1,7 @@
 ---
 title: Translate
 date: 2022-03-06 09:55:09
-tags:
+tags: about
 ---
 # 📫 I am the Translator of 
   - [ ] [MX Linux](https://mxlinux.org/) - A cooperative venture between the antiX and MX Linux communities
